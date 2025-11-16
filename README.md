@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Magadum</h1>
-<h3 align="center">A passionate third year student at Dayananda Sagar College of Engineering, Bangalore</h3>
+<h3 align="center">A passionate student at Dayananda Sagar College of Engineering, Bangalore</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhav-magadum" alt="vaibhav-magadum" /></a> </p>
 
